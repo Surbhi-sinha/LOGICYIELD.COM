@@ -1,0 +1,132 @@
+make,model,sales,year
+Tata,nexon,108580,2020
+Tata,altroz,69740,2020
+Tata,tiago,94940,2020
+Tata,harrier,28040,2020
+Tata,punch,22570,2020
+Tata,tigor,18900,2020
+Tata,safari,18360,2020
+Mahindra,bolero,65313,2020
+Mahindra,XUV300,47432,2020
+Mahindra,scorpio,36945,2020
+Mahindra,thar,32139,2020
+Mahindra,XUV700,11964,2020
+Mahindra,XUV500,5321,2020
+Mahindra,marazzo,1816,2020
+Mahindra,alturas G4,419,2020
+Mahindra,KUV,75,2020
+Mahindra,verito,23,2020
+Maruti Suzuki,wagonR,183850,2020
+Maruti Suzuki,swift,175020,2020
+Maruti Suzuki,baleno,172240,2020
+Maruti Suzuki,alto,166230,2020
+Maruti Suzuki,ertiga+XL6,154310,2020
+Maruti Suzuki,dzire,116220,2020
+Maruti Suzuki,vitra brezza,115960,2020
+Maruti Suzuki,ecco,114520,2020
+Maruti Suzuki,S presso,65480,2020
+Maruti Suzuki,celerio,32850,2020
+Maruti Suzuki,ignis,32740,2020
+Hyundai,creta,96990,2020
+Hyundai,i10 grand,91930,2020
+Hyundai,venue,82430,2020
+Hyundai,i20 elite,73410,2020
+Hyundai,Xcent,36340,2020
+Hyundai,santro,26740,2020
+Hyundai,verna,14660,2020
+Hyundai,tucson,600,2020
+Hyundai,elantra,330,2020
+Hyundai,KONA,220,2020
+Toyota,innova crysta,55250,2020
+Toyota,urban cruiser,27015,2020
+Toyota,glanza,26326,2020
+Toyota,fortuner,10915,2020
+Toyota,yaris,2235,2020
+Toyota,camry,500,2020
+Toyota,vellfire,477,2020
+Nissan,redi-GO,6194,2020
+Nissan,kicks,1817,2020
+Nissan,magnite,590,2020
+Nissan,GO,517,2020
+Nissan,GO+,464,2020
+Nissan,sunny,178,2020
+Nissan,micra,143,2020
+Nissan,terrano,445,2020
+VolksWagon,polo,11473,2020
+VolksWagon,vento,2166,2020
+VolksWagon,T-roc,987,2020
+VolksWagon,tiguan,972,2020
+VolksWagon,ameo,173,2020
+VolksWagon,passat,45,2020
+Ford,ecosport,27181,2020
+Ford,freestyle,6335,2020
+Ford,endeavour,5484,2020
+Ford,aspire,4229,2020
+Ford,figo,2570,2020
+Ford,mustang,0,2020
+Honda,amaze,37480,2020
+Honda,city,21830,2020
+Honda,WR-V,6550,2020
+Honda,jazz,3250,2020
+Honda,civic,1240,2020
+Honda,CR-V,180,2020
+Honda,BR-V,60,2020
+Honda,Brio,0,2020
+Skoda,KODAIQ,424,2020
+Skoda,Octavia,682,2020
+Skoda,KAROQ,999,2020
+Skoda,SUPERB,1530,2020
+Skoda,Rapid,7737,2020
+Kia,carnival,5210,2020
+Kia,sonet,38360,2020
+Kia,seltos,96930,2020
+Audi,Q8,450,2020
+Audi,Q5,708,2020
+Audi,e-tron,457,2020
+Audi,Q2,698,2020
+Audi,A8,143,2020
+Audi,RS7,456,2020
+Audi,RS5,783,2020
+Audi,RS Q8,119,2020
+BMW,S1000RR,568,2020
+BMW,R1250GS,4896,2020
+BMW,GSA,4522,2020
+BMW,F 900 R,2228,2020
+BMW,C400 GT,1456,2020
+Datsun,Go+,517,2020
+Datsun,redi-GO,6194,2020
+Datsun,Go,464,2020
+Fiat,punto EVO Pure,7890,2020
+Fiat,Pure EVO,4587,2020
+Fiat,Linea Classic,4568,2020
+Fiat,Urban Cross,478,2020
+Fiat,Avventura,4668,2020
+Fiat,Linea ,4648,2020
+Fiat,Abarth Punto,1234,2020
+Fiat,Abarth Avventura,7895,2020
+Jaguar,XF,145,2020
+Jaguar,XE,4859,2020
+Jaguar,F-TYPE,123,2020
+Jaguar,F-PACE,78,2020
+Jaguar,I-PACE,456,2020
+Jeep,compass,1465,2020
+Jeep,wrangler,2456,2020
+Jeep,trailhawk,7892,2020
+Jeep,meridian,6489,2020
+Jeep,grand,3156,2020
+Jeep,sub-4m,6862,2020
+LandRover,rangerover,458,2020
+LandRover,defender,478,2020
+LandRover,rangeroversport,596,2020
+LandRover,rangerovervelar,59,2020
+LandRover,rangeroverevoque,468,2020
+LandRover,discovery,464,2020
+Renault,kwid,49888,2020
+Renault,triber,89867,2020
+Renault,kiger,6878,2020
+Renault,arkana,87984,2020
+Volvo,XC40,8900,2020
+Volvo,XC90,4645,2020
+Volvo,S60,48648,2020
+Volvo,S90,8464,2020
+Volvo,XC60,6848,2020
