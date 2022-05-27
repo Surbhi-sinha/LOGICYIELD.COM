@@ -68,9 +68,12 @@ Customer segments, Most popular car specification combination (engine type, fuel
 after cloning the project install all the libraries from the terminal mentioned above
 
 In the main content section you will see **app1.py** file run that file from the terminal.
-<!-- ![Cars Specifications by company](/images/engagedoc10.png) -->
-In the output section you will see a developer link such as below
-<!-- ![Cars Specifications by company](/images/engagedoc11.png) -->
+
+![Cars Specifications by company](/images/engagedoc10.png)
+
+In the output section you will see a developer link such as below click on that link (*ctrl+click*)
+
+![Cars Specifications by company](/images/engagedoc11.png)
 
 ## OVERVIEW OF THE PROJECT LAYOUT
 
