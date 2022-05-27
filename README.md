@@ -13,6 +13,10 @@ Customer segments, Most popular car specification combination (engine type, fuel
 ### TECH STACK USED
 * Python
 
+### INSTALLATION OF PYTHON :-
+
+[Install Python](https://www.python.org/downloads/)
+
 ### PYTHON LIBRARIES USED ARE :-
 
 
@@ -52,7 +56,22 @@ Customer segments, Most popular car specification combination (engine type, fuel
   pip install numpy
   ```
   -----------------------
-  
+
+## HOW TO RUN THE PROJECT
+ 
+ Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
+ 
+ ##### Clone the project 
+  ```
+  git clone https://github.com/Surbhi-sinha/LOGICYIELD.COM.git
+  ```
+after cloning the project install all the libraries from the terminal mentioned above
+
+In the main content section you will see **app1.py** file run that file from the terminal.
+<!-- ![Cars Specifications by company](/images/engagedoc10.png) -->
+In the output section you will see a developer link such as below
+<!-- ![Cars Specifications by company](/images/engagedoc11.png) -->
+
 ## OVERVIEW OF THE PROJECT LAYOUT
 
   First of all you need to **SIGN IN** in the page using :- 
@@ -62,7 +81,10 @@ Customer segments, Most popular car specification combination (engine type, fuel
    *password* (**System123**)}.
   
   This is a prebuilt password in the code and you can not change it accordingly for the security purposes.
-<!--   ![Cars Specifications by company](/images/engagedoc7.png) -->
+  
+  ![Cars Specifications by company](/images/engagedoc7.png)
+  
+  
   The Project layout is divided into multiple pages as for the convenience of the user. The pages names as:-
    * Audi  => (company wise data of cars and specifications)
    * Statewise Data => (statewise sales of cars per financial year)
@@ -73,7 +95,8 @@ Customer segments, Most popular car specification combination (engine type, fuel
   
  ### Let's see further pages in depth
  
-  * AUDI
+  * ### AUDI
+  
    *This page shows the details of cars, model, and other relative data offered by the company to the customers.*
    
   __specifications of the page__
@@ -95,7 +118,7 @@ Customer segments, Most popular car specification combination (engine type, fuel
      accurate representation of the information of length of car models in millimeters scale.
    ![Cars Specifications by company](/images/engagedoc3.png)
    
- * STATEWISE DATA
+ * ### STATEWISE DATA
  
   *this page shows you the sales of cars as per state.*
   
@@ -108,7 +131,7 @@ Customer segments, Most popular car specification combination (engine type, fuel
   2. Bar chart :- it is the graphical representation of the data avalible in the map. You can easily download , zoom in , zoom out and select the perticular section in the graph.
 
 ![Cars Specifications by company](/images/engagedoc4.png)
- * CUSTOMER'S BEHAVIOR
+ * ### CUSTOMER'S BEHAVIOR
   
   *this page shows you the details/status of the customers.*
   
@@ -121,8 +144,9 @@ Customer segments, Most popular car specification combination (engine type, fuel
    5. Car Choice As Per Age Group :- bar chart representing the choice of cars per age group.
 
 ![Cars Specifications by company](/images/engagedoc5.png)
-<!-- ![Cars Specifications by company](/images/engagedoc8.png) -->
- * TOP VALUES
+
+![Cars Specifications by company](/images/engagedoc8.png)
+ * ### TOP VALUES
   
   *this page basically shows you the top sellering car model of each brands with their sales in the year 2020.*
   
@@ -132,7 +156,7 @@ Customer segments, Most popular car specification combination (engine type, fuel
   
   You must have been seeing two blank graph right now!! First! You need to select the company from the drop down
   
-<!-- ![Cars Specifications by company](/images/engagedoc9.png) -->
+![Cars Specifications by company](/images/engagedoc9.png)
   
   When you select the brand name from the company you will see a bar chart and pie chart of the sales and top selling models.
 
