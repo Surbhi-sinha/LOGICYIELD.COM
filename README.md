@@ -110,7 +110,7 @@ In the output section you will see a developer link such as below click on that 
      In the data table you can see the different information regarding the cars such as engine type, model , showroom price, engine cc, height, length, and milege etc.You can also sort the data table based on your selection in the filter section of data table (please note that the data is case sensitive do please enter full name//value )
     
    2. Bar chart of Showroom price as per Engine displacement :- 
-     the bar graph shows the price of cars or that perticular brand you selected as per engine cc.
+     the bar graph shows the price of cars or that particular brand you selected as per engine cc.
       You can also hover over the bar graph for getting the accurate information.
    ![Cars Specifications by company](/images/engagedoc2.png)
    
@@ -130,8 +130,8 @@ In the output section you will see a developer link such as below click on that 
   *here, you can select the financial year from the drop down and as per the data available you will see a map of india and a bar chart 
   
   1. Geographical representation(map) :- 
-     the map is showing the sales of cars in the perticular financial year and when you hover over it it will show you the data of quaterly sales in all the year and the state name. You can easily download , zoom in , zoom out and select the perticular section in the map.
-  2. Bar chart :- it is the graphical representation of the data avalible in the map. You can easily download , zoom in , zoom out and select the perticular section in the graph.
+     the map is showing the sales of cars in the particular financial year and when you hover over it will show you the data of quarterly sales in all the year and the state name. You can easily download , zoom in , zoom out and select the particular section in the map.
+  2. Bar chart :- it is the graphical representation of the data avalible in the map. You can easily download , zoom in , zoom out and select the particular section in the graph.
 
 ![Cars Specifications by company](/images/engagedoc4.png)
  * ### CUSTOMER'S BEHAVIOR
