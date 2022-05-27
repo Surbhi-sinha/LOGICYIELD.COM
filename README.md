@@ -92,7 +92,7 @@ In the output section you will see a developer link such as below click on that 
    * Audi  => (company wise data of cars and specifications)
    * Statewise Data => (statewise sales of cars per financial year)
    * Customer's Behavior => (car purchaser's status while purchashing the cars (i.e, marital , educational , age group etc.))
-   * Top Values => top sellers of eash brand.
+   * Top Values => top sellers of each brand.
    
   ![Home page layout](/images/engagedoc1.png)
   
