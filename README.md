@@ -55,6 +55,10 @@ Customer segments, Most popular car specification combination (engine type, fuel
   ```
   pip install numpy
   ```
+  9. dash-auth
+  ```
+  pip install dash-auth
+  ```
   -----------------------
 
 ## HOW TO RUN THE PROJECT
