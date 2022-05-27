@@ -7,7 +7,7 @@ Customer segments, Most popular car specification combination (engine type, fuel
 * Acknowledgement points:- 
  1. This Project is part of Microsoft Engage Program.
  2. The data fetched is 95% accurate and fetched from the pre available websites such as kaggle.com , cardekho.com etc.
- 3. there is no plagirism issue as per design and code, the sole contributor is **Surbhi Sinha**.
+ 3. there is no plagirism issue as per design and code, the sole contributor is [**Surbhi Sinha**](https://www.linkedin.com/in/surbhi-sinha-554902176/).
 ---------------
 
 ### TECH STACK USED
